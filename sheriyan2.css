@@ -1,3 +1,29 @@
-h1{
-    color: red;
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+/* boiler plate of css */
+
+.heading{
+    font-size: 50px;
+    text-align: center;
+}
+
+.subheading{
+    font-size: 30px;
+    color:grey;
+    text-align: center;
+}
+
+.para{
+    font-size: 20px;
+    text-align: center;
+    line-height: 20px;
+    word-spacing: 10px;
+    letter-spacing: 5px;
 }
